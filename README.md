@@ -2,7 +2,7 @@
 
 ![Screenshot 2026-01-10 at 19 32 36](https://github.com/user-attachments/assets/8b9c2493-9155-43a9-9e6b-137cc868ed53)
 
-Newsreader Cyrillic is a cyrillic fork of the [Newsreader](https://github.com/productiontype/Newsreader) typeface. It is a contemporary (until 2030) transitional sans-serif typeface. If you don't know what it is — that is Times New Roman, but much better.
+Newsreader Cyrillic is a cyrillic fork of the [Newsreader](https://github.com/productiontype/Newsreader) typeface. It is a contemporary (until 2030) transitional sans-serif typeface. If you don't know what is it — that is Times New Roman, but much better.
 
 - **Languages added:** Russian
 - **Styles:** Display Regular, Display Light Italic
