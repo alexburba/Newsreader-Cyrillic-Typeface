@@ -7,7 +7,7 @@ Newsreader Cyrillic a cyrillic fork of the [Newsreader](https://github.com/produ
 - **Languages added:** Russian
 - **Styles:** Display Regular, Display Light Italic
 - **Kerning:** 30%
-- **Plans (maybe):** BY, UA and Serbian + Bulgarian cyrillic, a proper kerning for all the cyrillics
+- **Plans (maybe):** BY, UA, Serbian and Bulgarian cyrillic + a proper kerning 
 - **License:** SIL OFL 1.1
 - **In Russian:** это версия Newsreader Display с добавленной кириллицей (RU) для начертаний Regular и Light Italic. Пока только русская кириллица. Потом добавлю BY, UA и на сербскую кириллицу.
 
